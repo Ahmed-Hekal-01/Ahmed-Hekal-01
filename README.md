@@ -1,12 +1,10 @@
 # Ahmed-Hekal-01
 # About Me:
-I am a Junior Android Developer with a strong foundation in Kotlin, Java, and Android SDK, specializing in building intuitive and efficient mobile applications. I have experience working with Jetpack libraries (Compose, ViewModel, LiveData, Navigation), Firebase, RESTful APIs, and SQLite/Room, allowing me to develop apps that are both user-friendly and scalable.
+I am a Junior Android Developer with a strong foundation in Kotlin, Java, and Android SDK, specializing in building intuitive and efficient mobile applications. I have experience working with Jetpack libraries (Compose, ViewModel, LiveData, Navigation), Firebase, RESTful APIs, and SQLite/Room, allowing me to develop apps that are bothuser-friendly and scalable.
 
-I follow clean code practices and modern architectures such as MVVM, focusing on maintainability and performance. Beyond coding, I am passionate about continuous learning, problem-solving, and staying updated with the latest Android trends and tools.
-
-My goal is to grow into a skilled Android Engineer who contributes to impactful projects, collaborates effectively in teams, and delivers mobile solutions that improve everyday experiences.
 
 ⚡ Strengths: Android SDK · Kotlin · Java · Jetpack Compose · Firebase · REST APIs · Git/GitHub · MVVM Architecture · UI/UX best practices
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hekal01)
 
