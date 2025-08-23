@@ -1,4 +1,3 @@
-# Ahmed-Hekal-01
 # About Me:
 I am a Junior Android Developer with a strong foundation in Kotlin, Java, and Android SDK, specializing in building intuitive and efficient mobile applications. I have experience working with Jetpack libraries (Compose, ViewModel, LiveData, Navigation), Firebase, RESTful APIs, and SQLite/Room, allowing me to develop apps that are bothuser-friendly and scalable.
 
