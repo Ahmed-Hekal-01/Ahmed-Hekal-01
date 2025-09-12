@@ -1,8 +1,5 @@
 # About Me:
-I am a Junior Android Developer with a strong foundation in Kotlin, Java, and Android SDK, specializing in building intuitive and efficient mobile applications. I have experience working with Jetpack libraries (Compose, ViewModel, LiveData, Navigation), Firebase, RESTful APIs, and SQLite/Room, allowing me to develop apps that are bothuser-friendly and scalable.
-
-
-⚡ Strengths: Android SDK · Kotlin · Java · Jetpack Compose · Firebase · REST APIs · Git/GitHub · MVVM Architecture · UI/UX best practices
+ Android Developer Just IT
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hekal01)
