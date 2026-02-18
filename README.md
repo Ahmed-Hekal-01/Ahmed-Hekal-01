@@ -1,7 +1,10 @@
 ```diff
--10X Software Engineer
+#-10X Software Engineer
 + Kotlin > Java
 + Linux > Your OS
-+ Vim > VSCode
-! git push --force my life choices
-```
++ Neovim > VSCode
+
+# Technologies I Ignore:
+- XML
+- Unit Tests
+- Jira (I am the manager)
