@@ -1,4 +1,3 @@
-```diff
 # -10X Android Engineer
 
 + Kotlin > Java
