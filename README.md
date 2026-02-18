@@ -1,6 +1,5 @@
 ```diff
-# -10X Android Engineer
-
+-10X Software Engineer
 + Kotlin > Java
 + Linux > Your OS
 + Vim > VSCode
