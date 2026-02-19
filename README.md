@@ -1,8 +1,6 @@
 ```diff
-#-10X Software Engineer
-+ Kotlin > Java
-+ Linux > Your OS
-+ Neovim > VSCode
+# Tech Stack
++ Neovim
 
 # Technologies I Ignore:
 - XML
